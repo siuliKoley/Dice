@@ -32,6 +32,18 @@ img {
   width: 80%;
 }
 
+.reload{
+  margin: 1% 42%;
+  text-align: center;
+}
+button{
+  font-family: 'Indie Flower';
+  font-size: 2rem;
+  border-radius: 20px;
+}
+button:hover{
+  background-color: rgb(121, 112, 102);
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
